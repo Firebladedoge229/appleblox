@@ -239,6 +239,8 @@ export class RobloxFFlags {
 									FFlagEnableV3MenuABTest3: false,
 									FFlagEnableInGameMenuChromeABTest3: false,
 									/* Chrome */ FFlagEnableInGameMenuChrome: false,
+									/* Fix */ FFlagFixReportButtonCutOff: false,
+									/* Fix */FFlagSettingsHubIndependentBackgroundVisibility: false,
 								});
 								// makeflag({
 								// 	FFlagDisableNewIGMinDUA: true,
