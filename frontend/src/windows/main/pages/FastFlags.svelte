@@ -90,15 +90,6 @@
 						},
 					},
 					{
-						label: '1-21 steps graphics slider',
-						description: 'Instead of having only 1-11 steps, you will be able to more accurately change your graphics',
-						id: 'ff_graphics',
-						options: {
-							type: 'boolean',
-							state: false,
-						},
-					},
-					{
 						label: 'Disable terrain grass',
 						description: '3D rendered grass will be disabled',
 						id: 'ff_grass',
